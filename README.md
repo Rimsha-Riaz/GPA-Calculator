@@ -1,2 +1,1 @@
-# GPA-Calculator
-GPA Calculator in Android
+Projects of Web and Desktop
