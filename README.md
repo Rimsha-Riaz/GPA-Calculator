@@ -1,1 +1,1 @@
-Projects of Web and Desktop
+CGPA Calculator to calculate CGPA
